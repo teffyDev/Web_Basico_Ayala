@@ -1,0 +1,93 @@
+section.div1{
+    background-color: #BBBBBB;
+    margin-left: 120mm;
+    margin-right: 120mm;
+    border-radius: 01cm;
+    margin-bottom: 1cm;
+}
+
+a.a1{
+    font-family: 'Algerian';
+    font-size: 18pt;
+    color: black;
+}
+
+header.head1{
+    background-color: #BBBBBB;
+    margin-left: 120mm;
+    margin-right: 120mm;
+    border-radius: 01cm;
+    margin-bottom: 1cm;
+}
+
+header.head1:hover{
+    background-color: #6D6D6D;
+}
+
+section.div1:hover{
+    background-color: #6D6D6D;
+}
+
+section.div2{
+    background-color: #6D6D6D;
+    margin-left: 120mm;
+    margin-right: 120mm;
+    border-radius: 01cm;
+    margin-bottom: 1cm;
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 40px;
+}
+
+section.div2:hover{
+    background-color: #BBBBBB;
+}
+
+p.p1{
+    color: white;
+    text-align: justify;
+    font-family: 'Times-New-Roman';
+    font-size: 20pt;
+}
+
+caption.cap1{   
+    color: white;
+    text-align: center;
+    font-family: 'Times-New-Roman';
+    font-size: 25pt;
+}
+
+h2.h1{
+    font-size: 25pt;
+    color: white;
+    font-family: 'Times-New-Roman';
+    text-align: center;
+}
+
+section.div1{
+    background-color: #BBBBBB;
+    margin-left: 120mm;
+    margin-right: 120mm;
+    border-radius: 1cm;
+}
+
+body.fondo{
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-abstracto-bloques-voronoi-extruidos-muro-corporativo-limpio-luz-minima-ilustracion-superficie-geometrica-3d-desplazamiento-elementos-poligonales_1217-2503.jpg?w=2000");
+}
+
+footer.pie{
+    background-color: #6D6D6D;
+    margin-left: 120mm;
+    margin-right: 120mm;
+    border-radius: 01cm;
+}
+
+footer.pie:hover{
+    background-color: #BBBBBB;
+}
+
+td.tde{
+    font-family: 'Algerian';
+    text-align: center;
+}
